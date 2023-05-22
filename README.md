@@ -6,7 +6,7 @@ The NYC Affordable Housing Development GIS is a free and publicly available tool
 
 * [Bootstrap 4](https://getbootstrap.com/)
 * [Leaflet](https://leafletjs.com)
-* [Turf.js](https://Turf.com)
+* [Turf.js](https://Turfjs.org)
 * [Google Maps Javscript API](https://developers.google.com/maps/documentation/javascript/tutorial)
 * [leaflet-color-markers](https://github.com/pointhi/leaflet-color-markers)
 * [csv-to-geojson](https://github.com/gavinr/csv-to-geojson)
